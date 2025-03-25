@@ -185,10 +185,13 @@ Tạo cơ sở dữ liệu cho bảng DKMH bằng lệnh SQL:
 Sau khi tạo song các bảng bằng lệnh SQL ta thu được các bảng dống hệt với các bảng toạ bằng thao tác đồ hoạ.
 ![image](https://github.com/user-attachments/assets/8e25b76e-365b-403b-a90e-62ccc6a3b8e9)
 
+Chuyển các thao tác đồ hoạ trên thành lệnh SQL tương đương
+![image](https://github.com/user-attachments/assets/33b48329-83e8-4fb0-b914-ab449d23c84d)
 
+Lệnh Sql sau khi chuyển từ thao tác đồ hoạ của bảng SinhVien:
+![image](https://github.com/user-attachments/assets/b94f1192-8a9a-41b1-9e2e-35c937b2f142)
 
-
-
+Các bảng còn lại tương tự như trêntrên
 
  
 
