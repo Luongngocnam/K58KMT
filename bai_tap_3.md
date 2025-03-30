@@ -87,7 +87,7 @@ Lập lại các bước của thao tác tạo Tạo file bai3schema.sql
 Trong danh sách Options, tìm đến mục:
 Types of data to script → Chọn Data only
 Nhấn OK để lưu thay đổi.
-![image](https://github.com/user-attachments/assets/f63364e4-bd13-4e61-b81b-3b1894e5f327)
+![image](https://github.com/user-attachments/assets/a8ec8048-471c-474e-af7c-cebcfeea107c)
 
 Nhấn Next.
 ![image](https://github.com/user-attachments/assets/dda76e65-2a61-4615-8bd1-2f9b410d6eee)
